@@ -1,6 +1,6 @@
 ## Sobre o Projeto
 
-Projeto Governo Estadual de Pernambuco é uma análise ocorrida para deteiorar casos de arrecadações, acidentes, buracos, 
+Projeto Governo Estadual de Pernambuco é uma análise ocorrida para deteriorar casos de arrecadações, acidentes, buracos, 
 temperatura e velocidade por Bairro e Meses nos bairros do Estado de Pernambuco.
 
 ## Tecnologias Utilizadas 
